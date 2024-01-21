@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Punyagv
 - Aspiring Data Analyst
-I am Punya GV, a highly motivated individual with a Master's degree in Commerce. My passion lies in the field of data analysis, and I am actively seeking opportunities to apply my skills and contribute to meaningful projects.
+  , a highly motivated individual with a Master's degree in Commerce. My passion lies in the field of data analysis, and I am actively seeking opportunities to apply my skills and contribute to meaningful projects.
 
 ## Skills
 - Statistics
